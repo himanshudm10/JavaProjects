@@ -5,7 +5,7 @@ public class BoxVolumeMain {
 	public static void main(String[] args) {
 		
 		Box b=new Box();
-		
+		b.box();
 		b.box(12,2,23);
 		
 	}
