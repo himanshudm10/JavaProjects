@@ -9,7 +9,7 @@ class Class2
 }
 
 
-public class Class1 extends Class2 implements Interface1, Interface2
+public class Class1 extends Class2 implements Interface1, Interface2			//Hybrid Inheritance
 {
 	
 	public void m1() {
